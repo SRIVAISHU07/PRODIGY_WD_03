@@ -18,7 +18,3 @@ Features
 How to Run
 
 Clone the repository and open `index.html` in your web browser.
-
-Author
-
--SRI VAISHNAVI KUMAR - [GitHub](https://github.com/yourusername)
