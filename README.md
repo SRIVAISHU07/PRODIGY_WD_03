@@ -1,37 +1,24 @@
-# PRODIGY_WD_03
-# Tic Tac Toe Web Application
+ Tic Tac Toe Web App
 
-A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
+This project is a classic Tic Tac Toe game built using HTML, CSS, and JavaScript. Players take turns clicking on a 3x3 grid to place X or O markers. The game detects wins, draws, and includes a restart button for a new game.
 
-## Features
+Technologies Used
 
-- Two-player game
-- Displays the current player's turn
-- Announces the winner or a draw
-- Restart button to reset the game
+- HTML for structure
+- CSS for styling
+- JavaScript for game logic
 
-## How to Run
+Features
 
-1. **Clone the repository:**
-    ```sh
-    git clone https://github.com/yourusername/tic-tac-toe.git
-    ```
-2. **Navigate to the project directory:**
-    ```sh
-    cd tic-tac-toe
-    ```
-3. **Open `index.html` in your web browser.**
+- Two-player gameplay
+- Turn indicator
+- Win and draw detection
+- Responsive design
 
-## File Structure
+How to Run
 
-- `index.html` - Game structure
-- `styles.css` - Game styling
-- `script.js` - Game logic
+Clone the repository and open `index.html` in your web browser.
 
-## License
+Author
 
-This project is licensed under the MIT License.
-
-## Author
-
-- **Your Name** - [GitHub](https://github.com/yourusername)
+-SRI VAISHNAVI KUMAR - [GitHub](https://github.com/yourusername)
